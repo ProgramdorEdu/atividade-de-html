@@ -3,3 +3,25 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: rgba(97, 83, 83, 0.774);
+}
+
+p {
+    color: darkkhaki;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 400%;
+    text-align: center;
+}
+
+a :hover {
+    text-decoration: none;    
+}
+
+h1 , h2, h3 {
+    text-transform: capitalize;
+}
